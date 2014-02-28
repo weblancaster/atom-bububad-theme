@@ -1,0 +1,12 @@
+{
+  "name": "bububad",
+  "theme": "syntax",
+  "version": "0.0.2",
+  "private": true,
+  "description": "A Bububad theme",
+  "repository": "https://github.com/weblancaster/atom-bububad-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
