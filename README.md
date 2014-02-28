@@ -4,7 +4,7 @@ Bububad theme for Atom by Github (inspired from https://github.com/eibbors/Bubub
 
 ### Screenshots
 
-![Bububad Screenshot](https://www.dropbox.com/s/4gmmj7emgsra7p9/bububad.png)
+![Bububad Screenshot](bububad.png)
 [View fullsize](https://www.dropbox.com/s/4gmmj7emgsra7p9/bububad.png)
 
 #### Install using Atom
