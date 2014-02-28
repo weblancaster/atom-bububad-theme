@@ -1,7 +1,7 @@
 {
   "name": "bububad",
   "theme": "syntax",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "private": true,
   "description": "A Bububad theme",
   "repository": "https://github.com/weblancaster/atom-bububad-theme",
